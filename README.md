@@ -2,7 +2,7 @@
 - 👀 I’m interested in first year Computer Science projects
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on first year Computer Science projects
-- 📫 How to reach me katiemill18@icloud.com
+- 📫 How to reach me katiemill18@icloud.com or kami9926@colorado.edu
 
 <!---
 k-miller8/k-miller8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
